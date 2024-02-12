@@ -1,0 +1,25 @@
+{
+    "name": "forge-docker",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/DevVali/forge-docker.git"
+    },
+    "author": "DevVali",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/DevVali/forge-docker/issues"
+    },
+    "homepage": "https://github.com/DevVali/forge-docker#readme",
+    "dependencies": {
+        "forgescript": "^1.3.0"
+    },
+    "devDependencies": {
+        "typescript": "^5.3.3"
+    }
+}
